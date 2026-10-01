@@ -1,0 +1,7 @@
+# 演示视频产物
+frames/
+frames_ppm/
+*.mp4
+*.png
+__pycache__/
+
